@@ -7,7 +7,7 @@ const initialNotifications = [
   {
     id: 'notif-1',
     type: 'success',
-    text: 'New user "Sophia Anderson" registered as Admin.',
+    text: 'New user "Riya Kapoor" registered as Admin.',
     time: '2 hours ago',
     unread: true,
   },
