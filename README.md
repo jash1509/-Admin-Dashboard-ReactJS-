@@ -183,9 +183,9 @@ const { register, handleSubmit, formState: { errors } } = useForm();
 
 ```js
 const users = [
-  { id: 1, name: "John Smith",    email: "john@gmail.com",    role: "Admin",   status: "Active"   },
-  { id: 2, name: "Sara Johnson",  email: "sara@gmail.com",    role: "User",    status: "Inactive" },
-  { id: 3, name: "Michael Lee",   email: "michael@gmail.com", role: "Manager", status: "Active"   },
+  { id: 1, name: "Aarav Sharma",   email: "aarav.sharma@gmail.com",   role: "Admin",   status: "Active"   },
+  { id: 2, name: "Ishita Patel",   email: "ishita.patel@gmail.com",   role: "User",    status: "Inactive" },
+  { id: 3, name: "Rohan Verma",    email: "rohan.verma@gmail.com",    role: "Manager", status: "Active"   },
   // ... 10 users total
 ];
 ```
